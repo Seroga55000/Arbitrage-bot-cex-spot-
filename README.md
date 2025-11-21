@@ -1,3 +1,4 @@
-Telegram notificator
+Telegram notificator!
 
-<img width="627" height="135" alt="image" src="https://github.com/user-attachments/assets/ce3338b8-d1ce-4910-87df-53bf7b6e8a7a" />
+<img width="627" height="595" alt="image" src="https://github.com/user-attachments/assets/a42e2f0e-f886-4838-a09f-aff39618d151" />
+
